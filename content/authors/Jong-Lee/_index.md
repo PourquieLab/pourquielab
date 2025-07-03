@@ -1,14 +1,14 @@
 ---
 # Display name
-title: Matthew Whites
+title: Jong 
 
 # Username (this should match the folder name)
 authors:
-- Matthew Whites
+- Jong G Lee
 
 #Author Names (alternative spellings etc)
 names:
-- Matthew Whites
+- Jong G Lee
 
 # Is this the primary user of the site?
 superuser: false
@@ -16,7 +16,7 @@ superuser: false
 #Use 1 for PI, 100 for Current Postdocs, 200 for current phds, 300 for current masters, 400 for current undergrads, 800 for alum postdocs, 810 for alum phds, 820 for alum masters, and 830 for alum undergrads, 900 for tools, 1000 for projects
 weight: 100
 
-#university: CU
+
 
 # Role/position
 role: Graduate Researcher
@@ -32,15 +32,6 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 # bio: I'm interested in signaling pathways
 
-interests:
-- Software Development
-  
-
-education:
-  courses:
-  - course: BS in Computer Science with Minor in Business
-    institution: University of Colorado Boulder
-    year: 2026
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
