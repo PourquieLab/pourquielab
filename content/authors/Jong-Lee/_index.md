@@ -59,4 +59,4 @@ social:
 email: ""
 
 ---
-Jong Lee is xxxxxxx
+Jong Lee is a graduate student.
