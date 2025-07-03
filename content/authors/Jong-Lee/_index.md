@@ -59,4 +59,4 @@ social:
 email: ""
 
 ---
-Bianca Gautam is currently in her sophomore year, pursuing a Bachelor's degree in Computer Science at CU Boulder, with a complementary minor in Business. In addition to her academic pursuits, she is a student researcher on campus. Bianca is part of the EEF ( engineer excellence fund), BeWiT (Business & Engineering Women in Technology), and CU GOLD, a leadership club. In her free time she loves spending time with her family and friends, hiking, and watching movies.
+Jong Lee is xxxxxxx
