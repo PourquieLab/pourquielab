@@ -1,42 +1,40 @@
 ---
 # Display name
-title: Bianca Gautam
+title: Matthew Whites
 
 # Username (this should match the folder name)
 authors:
-- Bianca Gautam
+- Matthew Whites
 
 #Author Names (alternative spellings etc)
 names:
-- Bianca Gautam
+- Matthew Whites
 
 # Is this the primary user of the site?
 superuser: false
 
 #Use 1 for PI, 100 for Current Postdocs, 200 for current phds, 300 for current masters, 400 for current undergrads, 800 for alum postdocs, 810 for alum phds, 820 for alum masters, and 830 for alum undergrads, 900 for tools, 1000 for projects
-weight: 400
+weight: 100
 
-university: CU
+#university: CU
 
 # Role/position
-role: Undergraduate Researcher
+role: Graduate Researcher
 
 department:
-- Computer Science
+- BBS
 
 # Organizations/Affiliations
 organizations:
-- name: University of Colorado Boulder
+- name: Harvard Medical School
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-# bio: I'm intersted in data automation and data science.
+# bio: I'm interested in signaling pathways
 
 interests:
 - Software Development
   
-projects:
-- <a href="/author/synbiohub/">SynBioHub</a>
 
 education:
   courses:
@@ -58,9 +56,7 @@ social:
 - icon: envelope
   icon_pack: fas
   link: mailto:biga3990@colorado.edu 
-- icon: university-logo
-  icon_pack: Custom_University
-  link: https://www.colorado.edu/academics/bs-computer-science
+
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -70,19 +66,6 @@ social:
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
-
-# Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-- Alumni
-- Undergraduate Alumni
-- SynBioHub
-- Genetic Design Automation
-
-
-#any user groups to display on the page
-display_groups:
-- Genetic Design Automation Area
 
 ---
 Bianca Gautam is currently in her sophomore year, pursuing a Bachelor's degree in Computer Science at CU Boulder, with a complementary minor in Business. In addition to her academic pursuits, she is a student researcher on campus. Bianca is part of the EEF ( engineer excellence fund), BeWiT (Business & Engineering Women in Technology), and CU GOLD, a leadership club. In her free time she loves spending time with her family and friends, hiking, and watching movies.
