@@ -18,5 +18,5 @@ The Pourquié Lab is also a leader in developing human in vitro models of embryo
 <div align="center">
   <img src="assets/images/clock_wavefront_model.tiff" alt="Pourquie Lab" style="width:30%;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="assets/images/Somitoids_Segmentoids.jpeg" alt="HMS" style="width:30%;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="assets/images/pourquie_muscles.jpg" alt="BWH" style="width:20%;">
+  <img src="assets/images/pourquie_muscles.jpg" alt="BWH" style="width:25%;">
 </div>
