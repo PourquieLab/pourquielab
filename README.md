@@ -15,4 +15,8 @@ In addition to uncovering the molecular and cellular mechanisms of somite format
 
 The Pourquié Lab is also a leader in developing human in vitro models of embryonic development, including Somitoids, stem cell-derived organoids that recapitulate aspects of the segmentation clock and musculoskeletal lineage specification. Using tools from genetics, stem cell biology, live imaging, and bioengineering, the lab aims to dissect the spatiotemporal control of tissue patterning, morphogenesis, and differentiation in both mouse and human systems.
 
-
+<div align="center">
+  <img src="assets/images/clock_wavefront_model.png" alt="Pourquie Lab" style="width:30%;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="assets/images/Somitoids_Segmentoids.jpeg" alt="HMS" style="width:30%;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="assets/images/pourquie_muscles.jpg" alt="BWH" style="width:30%;">
+</div>
