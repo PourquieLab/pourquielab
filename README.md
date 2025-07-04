@@ -1,6 +1,6 @@
 <div style="display: flex; align-items: center; gap: 100px;">
   <img src="assets/images/icon.png" alt="Pourquie Lab" style="width:10%;">
-  <img src="assets/images/framed_hms_logo.png" alt="HMS" style="width:30%;">
+  <img src="assets/images/framed_hms_logo.png" alt="HMS" style="width:20%;">
   <img src="assets/images/bwh.png" alt="BWH" style="width:30%;">
 </div>
 
