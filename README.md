@@ -1,5 +1,5 @@
 <div style="display: flex; align-items: center; gap: 100px;">
-  <img src="assets/images/icon.png" alt="Pourquie Lab" style="width:20%;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="assets/images/icon.png" alt="Pourquie Lab" style="width:15%;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="assets/images/framed_hms_logo.png" alt="HMS" style="width:20%;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="assets/images/bwh.png" alt="BWH" style="width:30%;">
 </div>
